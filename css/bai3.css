@@ -1,6 +1,8 @@
-
+body{
+    background: lightsalmon;
+}
 #main{
-    background: aqua;
+    background: azure;
     width: 800px;
     border: solid 5px black;
 }
